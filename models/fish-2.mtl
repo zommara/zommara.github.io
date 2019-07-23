@@ -1,0 +1,18 @@
+# created with pCon.planner
+
+newmtl mat_acad1c22adb9
+Ka 0.90980393 0.18039216 0
+Kd 0.90980393 0.18039216 0
+Ks 0.23151161 0.23151161 0.23151161
+Ns 128
+illum 2
+
+newmtl mat_acadce1daa0e
+Ka 0.766482 0.62801099 0.49376303
+Kd 1 1 1
+map_Kd a38f236000737ecf.png
+map_Bump afe149717bd90267.png
+Ks 0 0 0
+Ns 0
+illum 2
+
